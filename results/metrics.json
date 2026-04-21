@@ -1,0 +1,14 @@
+[
+    {
+        "query": "What is FAISS?",
+        "latency": 0.42,
+        "k_used": 2,
+        "quality": 120
+    },
+    {
+        "query": "Explain adaptive RAG system",
+        "latency": 0.78,
+        "k_used": 5,
+        "quality": 210
+    }
+]
